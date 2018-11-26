@@ -1,5 +1,5 @@
 # Search GST TaxPayer API
-GST TaxPayer API by [Master India](https://www.mastersindia.co/) helps the customer to integrate the [GST search tool](https://www.mastersindia.co/gst-number-search-and-gstin-verification/) on their website or application. Using this API user can know the details of GSTIN Number  and other details too for example date of registration, type of business, type of taxpayer ( regular or quarterly based), name of the city where the GSTIN was registered in and also the status of taxpayer (active or inactive whichever the case may be.)
+GST TaxPayer API by [Masters India](https://www.mastersindia.co/) helps the customer to integrate the [GST number search API](https://www.mastersindia.co/gst-number-verification-api-bulk-utility/) on their website or application. Using this API user can know the details of GSTIN Number  and other details too for example date of registration, type of business, type of taxpayer ( regular or quarterly based), name of the city where the GSTIN was registered in and also the status of taxpayer (active or inactive whichever the case may be.)
 
 **API Method**: GET
 URL:https://commonapi.mastersindia.co/commonapis/searchgstin
@@ -33,7 +33,7 @@ https://commonapi.mastersindia.co/commonapis/searchgstin?gstin=GSTINOfTaxPayerTo
 
 ## View and Track Returns API
 
-View and Track Returns API by Master India can be purchased by any company or individual. This helps the users to track the status of their Return so filed (current or previous) details by just entering the financial year and GSTIN of the taxpayer. 
+View and Track Returns API by Masters India can be purchased by any company or individual. This helps the users to track the status of their Return so filed (current or previous) details by just entering the financial year and GSTIN of the taxpayer. 
 
 **API Method**: GET
 
@@ -69,7 +69,7 @@ client_id : 242324v424244255545343
 
 ## Get Count API
 
-Get Count API by Master India helps the company who has integrated this API  to know how many API counts have been hit by the users. This API will help the company to know if they have exhausted the APIs so purchased for example If a company purchases 1,00,000 APIs from Master India and the user has hit 99,000 APIs count then the company will come to know that there are only 1,000 APIs are left with them which can be used by the GSTIN taxpayer.
+Get Count API by Masters India helps the company who has integrated this API  to know how many API counts have been hit by the users. This API will help the company to know if they have exhausted the APIs so purchased for example If a company purchases 1,00,000 APIs from Masters India and the user has hit 99,000 APIs count then the company will come to know that there are only 1,000 APIs are left with them which can be used by the GSTIN taxpayer.
 
 **API Method**: GET
 
@@ -148,9 +148,3 @@ URL:https://commonapi.mastersindia.co/oauth/access_token
 **Sample Response JSON:**
 
 {"access_token":"3d80fd20d4540798919e48d7c872d09c8eb93036","expires_in":14400,"token_type":"bearer"}
-
-
-
-
-
-
