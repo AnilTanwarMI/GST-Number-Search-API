@@ -1,5 +1,5 @@
 # Search GST TaxPayer API
-GST TaxPayer API by Master India helps the customer to integrate the GST search tool on their website or application. Using this API user can know the details of GSTIN Number  and other details too for example date of registration, type of business, type of taxpayer ( regular or quarterly based), name of the city where the GSTIN was registered in and also the status of taxpayer (active or inactive whichever the case may be.)
+GST TaxPayer API by [Master India](https://www.mastersindia.co/) helps the customer to integrate the [GST search tool](https://www.mastersindia.co/gst-number-search-and-gstin-verification/) on their website or application. Using this API user can know the details of GSTIN Number  and other details too for example date of registration, type of business, type of taxpayer ( regular or quarterly based), name of the city where the GSTIN was registered in and also the status of taxpayer (active or inactive whichever the case may be.)
 
 **API Method**: GET
 URL:https://commonapi.mastersindia.co/commonapis/searchgstin
