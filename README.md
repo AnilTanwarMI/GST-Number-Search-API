@@ -2,7 +2,7 @@
 GST TaxPayer API by [Masters India](https://www.mastersindia.co/) helps the customer to integrate the [GST number search API](https://www.mastersindia.co/gst-number-verification-api-bulk-utility/) on their website or application. Using this API user can know the details of GSTIN Number  and other details too for example date of registration, type of business, type of taxpayer ( regular or quarterly based), name of the city where the GSTIN was registered in and also the status of taxpayer (active or inactive whichever the case may be.)
 
 **API Method**: GET
-URL:https://commonapi.mastersindia.co/commonapis/searchgstin
+URL: https://commonapi.mastersindia.co/commonapis/searchgstin
 
 **Headers**
 
@@ -19,7 +19,7 @@ URL:https://commonapi.mastersindia.co/commonapis/searchgstin
 | gstin | 12GSPTN0792G1Z2 | GSTIN of TaxPayer to Search for.
 
 **Sample for URL Based API**:
-https://commonapi.mastersindia.co/commonapis/searchgstin?gstin=GSTINOfTaxPayerToSearch
+URL: https://commonapi.mastersindia.co/commonapis/searchgstin?gstin=GSTINOfTaxPayerToSearch
 
 **Sample Header for Above Request**
 
@@ -37,7 +37,7 @@ View and Track Returns API by Masters India can be purchased by any company or i
 
 **API Method**: GET
 
-URL:https://commonapi.mastersindia.co/commonapis/trackReturns
+URL: https://commonapi.mastersindia.co/commonapis/trackReturns
 
 **Headers**
 
@@ -55,7 +55,7 @@ URL:https://commonapi.mastersindia.co/commonapis/trackReturns
 | fy | 2018-19 | Financial Year
 
 **Sample for URL Based API:**
-https://commonapi.mastersindia.co/commonapis/trackReturns?gstin=GSTINOfTaxPayerToSearch&fy=Financial Year
+URL: https://commonapi.mastersindia.co/commonapis/trackReturns?gstin=GSTINOfTaxPayerToSearch&fy=Financial Year
 
 **Sample Header for Above Request**
 
@@ -73,7 +73,7 @@ Get Count API by Masters India helps the company who has integrated this API  to
 
 **API Method**: GET
 
-URL:https://commonapi.mastersindia.co/commonapis/countapi
+URL: https://commonapi.mastersindia.co/commonapis/countapi
 
 **Headers**
 
@@ -109,7 +109,7 @@ Authentication API by Master India supports access-token based authentication. A
 
 **API Method**: POST
 
-URL:https://commonapi.mastersindia.co/oauth/access_token
+URL: https://commonapi.mastersindia.co/oauth/access_token
 
 **Headers**
 
